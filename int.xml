@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!DOCTYPE message [
-	<!ENTITY % ext SYSTEM "file:///<PATHTOPROJECT>/PHPXXE/ext.dtd">
+	<!ENTITY % ext SYSTEM "file:///<PATHTOPROJECT>/ext.dtd">
 	%ext;
 ]>
 <message></message> 
